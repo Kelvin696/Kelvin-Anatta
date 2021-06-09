@@ -1,2 +1,3 @@
 # Kelvin-Anatta
-Repository untuk bootcamp
+Repository untuk pembelajaran dan pengumpulan tugas di kelas Pre- Bootcamp
+
